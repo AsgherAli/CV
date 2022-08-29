@@ -27,7 +27,6 @@ _Research Analyst based in Islamabad, Pakistan_ <br>
 <br><br>
 
 **SEO Analyst | Forwarders ** (Jan 2011 - Dec 2013) <br>
-
   - Performed ongoing keyword discovery, expansion and optimization to increase organic search footprint and drive relevant site traffic.
   - Recommended changes to website architecture, content and linking to improve SEO positions for target keywords.
   - Tracked, reported and analyzed website analytics to drive strategy and improve user experience.
