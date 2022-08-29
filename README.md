@@ -38,12 +38,12 @@ A start-up dedicated to improving the E-Learning experience, and education in ge
 
 **Trading Tutor** | [Udemy](https://www.udemy.com/user/trading-tutor/) _(Sep 2021 - July 2021)_<br>
 A coursed focus on the technical and fundamental side of trading and Investing.
-<br>
+<br><br>
 
 ## 🏆 Accomplishments
 
 **Featured in Astronomy Picture of the Day** | [APOD.NASA](https://apod.nasa.gov/) (Jan 2021) <br>
- [Picture](https://user-images.githubusercontent.com/35127781/187210797-6d4358b1-7e6e-444d-ac5a-542e95d94795.jpg)
+ [Picture](https://user-images.githubusercontent.com/35127781/187210797-6d4358b1-7e6e-444d-ac5a-542e95d94795.jpg) <br>
  **Won Second Place** | [Islamabad Open Chess Competition](https://www.cfpofficial.com/) (May 2021) <br>
 <br><br>
 **Top 5 at Regional Qualifiers (SEA region)** | [DOTA 2](https://www.dota2.com/) (2018) <br>
@@ -58,7 +58,8 @@ A coursed focus on the technical and fundamental side of trading and Investing.
 [Certificate](https://analytics.google.com/analytics/academy/certificate/bk5me1vwS8y5rg45Xg82cg) - (Aug 2022) <br>
 
 **Bachelor of Business Administration** in Economics<br>
-[IU](https://iqra.edu.pk/) - Karachi, Pakistan (2014 - 2017)
+[IU](https://iqra.edu.pk/) - Karachi, Pakistan (2014 - 2017)<br>
+<br><br>
 
 ## 💬 Languages
 
