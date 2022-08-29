@@ -26,7 +26,7 @@ _Research Analyst based in Islamabad, Pakistan_ <br>
   - Organized material to research and complete writing tasks.
 <br><br>
 
-**SEO Analyst | Forwarders ** (Jan 2011 - Dec 2013) <br>
+**SEO Analyst | Forwarders** (Jan 2011 - Dec 2013) <br>
   - Performed ongoing keyword discovery, expansion and optimization to increase organic search footprint and drive relevant site traffic.
   - Recommended changes to website architecture, content and linking to improve SEO positions for target keywords.
   - Tracked, reported and analyzed website analytics to drive strategy and improve user experience.
@@ -48,7 +48,7 @@ A coursed focus on the technical and fundamental side of trading and Investing.
 **Featured in Astronomy Picture of the Day** | [APOD.NASA](https://apod.nasa.gov/) (Jan 2021) <br>
  [Picture](https://user-images.githubusercontent.com/35127781/187210797-6d4358b1-7e6e-444d-ac5a-542e95d94795.jpg)
  
-**Won Second Place** | [Islamabad Open Chess Competition](https://www.cfpofficial.com/) (May 2021) <br>
+ **Won Second Place** | [Islamabad Open Chess Competition](https://www.cfpofficial.com/) (May 2021) <br>
 
 **Top 5 at Regional Qualifiers (SEA region)** | [DOTA 2](https://www.dota2.com/) (2018) <br>
 <br>
