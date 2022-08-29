@@ -13,19 +13,16 @@ _Research Analyst based in Islamabad, Pakistan_ <br>
   - Help automate routine tasks.
   - **_Technologies used:_** Python, PineScript, Pandas, NumPy, SQL, AWS, REST.
 <br><br>
-
 **Capital Markets | Sole-Trader** (June 2014 - June 2022) <br>
   - Formulated algorithms to search for real-time mathematical indicators and flag trades worth executing.
   - Assessed hourly market conditions to look for hedge and arbitrage opportunities.
   - Devised detailed hedge and trade strategies for specific trades.
   - **_Technologies used:_** TensorFlow, Matplotlib, NumPy, Pandas.
 <br><br>
-
 **Technical Writer | Axact/Freelance** (Jan 2017 - Dec 2017) <br>
   - Proofread copy written by colleagues to correct spelling, punctuation and grammar.
   - Organized material to research and complete writing tasks.
 <br><br>
-
 **SEO Analyst | Forwarders** (Jan 2011 - Dec 2013) <br>
   - Performed ongoing keyword discovery, expansion and optimization to increase organic search footprint and drive relevant site traffic.
   - Recommended changes to website architecture, content and linking to improve SEO positions for target keywords.
