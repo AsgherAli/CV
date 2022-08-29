@@ -42,23 +42,23 @@ A coursed focus on the technical and fundamental side of trading and Investing.
 ## 🏆 Accomplishments
 
 **Featured in Astronomy Picture of the Day** | [APOD.NASA](https://apod.nasa.gov/) (Jan 2021) <br>
- [Picture](https://user-images.githubusercontent.com/35127781/187210797-6d4358b1-7e6e-444d-ac5a-542e95d94795.jpg) <br>
- <br><br>
- **Won Second Place** | [Islamabad Open Chess Competition](https://www.cfpofficial.com/) (May 2021) <br>
+ [Picture](https://user-images.githubusercontent.com/35127781/187210797-6d4358b1-7e6e-444d-ac5a-542e95d94795.jpg)
+ <br>
+ **Won Second Place** | [Islamabad Open Chess Competition](https://www.cfpofficial.com/) (May 2021)
 <br><br>
-**Top 5 at Regional Qualifiers (SEA region)** | [DOTA 2](https://www.dota2.com/) (2018) <br>
+**Top 5 at Regional Qualifiers (SEA region)** | [DOTA 2](https://www.dota2.com/) (2018)
 <br><br>
 
 ## 👩🏼‍🎓 Education
 
 **CS50's Web Programming with Python and JavaScript** [Harvardx](https://vpal.harvard.edu/) <br>
-[Certificate](https://github.com/AsgherAli/Project0) - (July 2022) <br>
+[Certificate](https://github.com/AsgherAli/Project0) - (July 2022)
 
 **Advanced Google Analytics** [Google Academy](https://analytics.google.com/analytics/academy/) <br>
-[Certificate](https://analytics.google.com/analytics/academy/certificate/bk5me1vwS8y5rg45Xg82cg) - (Aug 2022) <br>
+[Certificate](https://analytics.google.com/analytics/academy/certificate/bk5me1vwS8y5rg45Xg82cg) - (Aug 2022)
 
 **Bachelor of Business Administration** in Economics<br>
-[IU](https://iqra.edu.pk/) - Karachi, Pakistan (2014 - 2017)<br>
+[IU](https://iqra.edu.pk/) - Karachi, Pakistan (2014 - 2017)
 <br><br>
 
 ## 💬 Languages
