@@ -48,7 +48,7 @@ A coursed focus on the technical and fundamental side of trading and Investing.
 ## 🏆 Accomplishments
 
 **Featured in Astronomy Picture of the Day** | [APOD.NASA](https://apod.nasa.gov/) _(Jan 2021)_<br>
- :waning_gibbous_moon: [Picture](https://user-images.githubusercontent.com/35127781/187210797-6d4358b1-7e6e-444d-ac5a-542e95d94795.jpg)
+ [Picture](https://user-images.githubusercontent.com/35127781/187210797-6d4358b1-7e6e-444d-ac5a-542e95d94795.jpg)
  
 **Won Second Place** | [Islamabad Open Chess Competition](https://www.cfpofficial.com/) _(May 2021)_ <br>
 
