@@ -43,8 +43,10 @@ A coursed focus on the technical and fundamental side of trading and Investing.
 
 **Featured in Astronomy Picture of the Day** | [APOD.NASA](https://apod.nasa.gov/) (Jan 2021) <br>
  [Picture](https://user-images.githubusercontent.com/35127781/187210797-6d4358b1-7e6e-444d-ac5a-542e95d94795.jpg) <br>
+ 
  **Won Second Place** | [Islamabad Open Chess Competition](https://www.cfpofficial.com/) (May 2021)
 <br>
+
 **Top 5 at Regional Qualifiers (SEA region)** | [DOTA 2](https://www.dota2.com/) (2018)
 <br><br>
 
