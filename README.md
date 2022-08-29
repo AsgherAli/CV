@@ -32,7 +32,7 @@ _Research Analyst based in Islamabad, Pakistan_ <br>
   - Tracked, reported and analyzed website analytics to drive strategy and improve user experience.
   - Created content strategies for digital media.
   - **_Technologies used:_** Google Analytics, Ahrefs, WordPress.
-<br><br>
+<br>
 
 ## 📌 On The Side
 
@@ -41,7 +41,7 @@ A start-up dedicated to improving the E-Learning experience, and education in ge
 
 **Trading Tutor** | [Udemy](https://www.udemy.com/user/trading-tutor/) _(Sep 2021 - July 2021)_<br>
 A coursed focus on the technical and fundamental side of trading and Investing.
-<br><br>
+<br>
 
 ## 🏆 Accomplishments
 
@@ -51,7 +51,7 @@ A coursed focus on the technical and fundamental side of trading and Investing.
 **Won Second Place** | [Islamabad Open Chess Competition](https://www.cfpofficial.com/) (May 2021) <br>
 
 **Top 5 at Regional Qualifiers (SEA region)** | [DOTA 2](https://www.dota2.com/) (2018) <br>
-<br><br>
+<br>
 
 ## 👩🏼‍🎓 Education
 
