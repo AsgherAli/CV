@@ -2,7 +2,7 @@
 
 _Research Analyst based in Islamabad, Pakistan_ <br>
 
-[Email](mailto:asgher@pm.me) / [GitHub](https://github.com/Rehgsa/)
+[Email](mailto:asgher@pm.me) / [GitHub](https://github.com/AsgherAli)
 ## 👩🏼‍💻 Experience
 
 **Research Analyst** | [Gaditek](https://www.gaditek.com/) _(Jan 2018 - Oct 2021)_ <br>
