@@ -36,7 +36,7 @@ _Research Analyst based in Islamabad, Pakistan_ <br>
 A start-up dedicated to improving the E-Learning experience. And education in general.
 
 **Trading Tutor** | [Udemy](https://www.udemy.com/user/trading-tutor/) _(Sep 2021 - July 2021)_<br>
-A coursed focused on the technical and fundamental side of trading and Investing.
+A course focused on the technical and fundamental side of trading and Investing.
 <br><br>
 
 ## 🏆 Accomplishments
