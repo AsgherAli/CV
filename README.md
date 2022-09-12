@@ -17,7 +17,7 @@ _Research Analyst based in Islamabad, Pakistan_ <br>
   - Formulated algorithms to search for real-time mathematical indicators and flag trades worth executing.
   - Assessed hourly market conditions to look for hedge and arbitrage opportunities.
   - Devised detailed hedge and trade strategies for specific trades.
-  - **_Technologies used:_** TensorFlow, Matplotlib, NumPy, Pandas.
+  - **_Technologies used:_** TensorFlow, Matplotlib, NumPy, Pandas, MT4.
 <br><br>
 **Technical Writer | Axact/Freelance** (Jan 2017 - Dec 2017) <br>
   - Proofread copy written by colleagues to correct spelling, punctuation and grammar.
