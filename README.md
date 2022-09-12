@@ -11,7 +11,7 @@ _Research Analyst based in Islamabad, Pakistan_ <br>
   - Worked on behalf of companies to buy and sell financial instruments.
   - Read financial publications to remain informed about trends affecting market conditions.
   - Help automate routine tasks.
-  - **_Technologies used:_** Python, PineScript, Pandas, NumPy, SQL, AWS, REST.
+  - **_Technologies used:_** PineScript, Pandas, NumPy, SQL, AWS, REST.
 <br><br>
 **Capital Markets | Sole-Trader** (June 2014 - June 2022) <br>
   - Formulated algorithms to search for real-time mathematical indicators and flag trades worth executing.
