@@ -32,11 +32,12 @@ _Research Analyst based in Islamabad, Pakistan_ <br>
 
 ## 📌 On The Side
 
+**Founder** | [XctiveAI](https://www.xctiveAI.com) _(Jan 2023 - Present)_<br>
+A startup dedicated to creating innovative trading and investing tools to help investors make smarter decisions..
+
 **Co-Founded** | [E-learning Evolve](https://elearningevolve.com/) _(Jan 2020 - Present)_ <br>
 A start-up dedicated to improving the E-Learning experience. And education in general.
 
-**Trading Tutor** | [Udemy](https://www.udemy.com/user/trading-tutor/) _(Sep 2021 - July 2021)_<br>
-A course focused on the technical and fundamental side of trading and Investing.
 <br><br>
 
 ## 🏆 Accomplishments
